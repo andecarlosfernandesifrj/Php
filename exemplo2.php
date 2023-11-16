@@ -13,6 +13,8 @@
         echo "x=$x";
         echo "<br> y=$y";
         echo "<br> x+y= ".$x + $y;
+        print("<br> teste");
+        print " <br> Utilizei o comando print.";
     ?>
 
 </body>
