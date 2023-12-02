@@ -12,9 +12,11 @@
      $senha = $_POST["senha"];
      
      if($nome=="Carlos" and $senha=="123")
-        header("Location: "."site.php"); 
+        header("Location: "."intermediario.php"); 
+     elseif($nome=="Admin" and $senha=="adm123")
+        header("Location: "."administrador.php");
      else
-        print("Nome/Senha inválidos!");
+        header("Location: "."comum.php");
      ?>
 </body>
 </html>

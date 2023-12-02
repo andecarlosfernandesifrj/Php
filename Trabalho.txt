@@ -1,0 +1,9 @@
+Trabalho
+
+Fazer a página inicial do site com área 
+para logar com usuario e senha.
+ 
+1-Usuário comum (não está cadastrado) - Abrir um site padrão (mínimo 3 páginas)
+2-Usuário administrador (acesso restrito) - Abrir site completo com várias opções, menu, etc... (mínimo 5 páginas)
+3-Seu usuário (usuário intermediário) - opções intermediárias entre o usuário comum e o administrador (mínimo 3 páginas)
+
